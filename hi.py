@@ -6,7 +6,7 @@ hi = "hi"
 #This entails putting an f before the string '' quotes. 
 #This allows you to use {} and input a variable into a string
 #This statement will read "hi , I can write in Python" 
-print(f'{hi} , I can write in Python')
+print(f"{hi} , I can write in Python")
 
 #string variable that says 'bye'
 
